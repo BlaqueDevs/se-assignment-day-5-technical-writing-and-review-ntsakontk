@@ -8,7 +8,7 @@ Choose visual aids that are suitable for my audience.
 Offer relevant examples to illustrate complex concepts.
 Avoid oversimplifying or overcomplicating technical information.
 ## 2. What are some strategies to tailor your content to different audience types?
-= 1. Identify Your Audience:
+= 1. Identify Your Audience
 
 Demographics: Age, gender, location, income level, education.
 Psychographics: Interests, values, lifestyle, behaviors.
